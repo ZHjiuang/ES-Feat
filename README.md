@@ -1,1 +1,1 @@
-Download Aircraft_Rot dataset from [Google Drive](https://drive.google.com/drive/folders/1FTGhtJYRdTCC4-SW6VHCxRXTpzzQguGS?usp=drive_link)
+Download Aircraft_Rot dataset from [Google Drive](https://drive.google.com/drive/folders/1FTGhtJYRdTCC4-SW6VHCxRXTpzzQguGS?usp=sharing)
